@@ -1,0 +1,41 @@
+#GameContentDiv{ 
+
+    display: flex;
+    flex-direction: column;
+    gap: 5vh;
+    margin-left: 2vw;
+    margin-right: 2vw;
+
+}
+
+#DataDiv{ 
+
+    display: flex;
+    flex-direction: column;
+    gap: 1vh;
+
+}
+
+p{ 
+
+    font-size: 1.2em;
+
+}
+
+.ImageDiv { 
+
+    width: 128px;
+    height: 128px;
+    max-width: 100%;
+    border: 2px solid white;
+
+}
+
+#ImageCardDiv { 
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20vh;
+    margin-bottom: 5vh;
+}
