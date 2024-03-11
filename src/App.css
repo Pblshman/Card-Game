@@ -1,3 +1,9 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box; // not neccesary
+}
+
 @font-face {
   font-family: 'Roboto Bold';
   src: url('./assets/fonts/Roboto-Bold.ttf') format('truetype');
