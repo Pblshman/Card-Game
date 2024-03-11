@@ -55,7 +55,6 @@ function GameContent() {
                     setImagesData(prevImagesUrl => [...prevImagesUrl, {id: element.login.uuid,
                     imageurl: element.picture.large
                     }]);
-                    console.log(resAr)
 
                 });
         
